@@ -1,0 +1,10 @@
+int32 driveMtr
+int32 steerMtr
+int32 gripSense
+int32 gripPos
+int32 frontBump
+int32 rearBump
+int32 camTilt
+string lightRed
+string lightYel
+string lightGrn

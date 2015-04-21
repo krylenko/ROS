@@ -1,0 +1,12 @@
+int32 driveCmd
+int32 steerCmd
+int32 gripCloseCmd
+int32 gripPosCmd
+int32 camTiltCmd
+int32 lightRedCmd
+int32 lightYelCmd	
+int32 lightGrnCmd
+
+---
+
+int32 success
